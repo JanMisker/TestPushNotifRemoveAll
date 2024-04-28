@@ -1,0 +1,11 @@
+{
+  "appId": "nl.misker.jan.test.testpushnotifremoveall",
+  "appName": "TestPushNotifRemoveAll",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

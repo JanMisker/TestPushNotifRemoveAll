@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TestPushNotifRemoveAll</string>
+    <string name="title_activity_main">TestPushNotifRemoveAll</string>
+    <string name="package_name">nl.misker.jan.test.testpushnotifremoveall</string>
+    <string name="custom_url_scheme">nl.misker.jan.test.testpushnotifremoveall</string>
+</resources>
